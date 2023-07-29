@@ -1,7 +1,7 @@
 # aulify-blackhole
 Aulify BlackHole videogame.
 
-Trailer: https://youtu.be/LwUMo9ianfY
+Trailer: https://youtu.be/LwUMo9ianfY<br>
 Gameplay: https://youtu.be/A-IrGmw4j4Q
 
 ![BlackHole logo](https://github.com/vivasrguez/aulify-blackhole/assets/85045551/9698e2b5-8766-4e04-8323-b927909edc0d)
