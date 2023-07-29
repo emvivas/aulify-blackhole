@@ -1,6 +1,5 @@
 # aulify-blackhole
-<b>Aulify BlackHole, mathematical educational video game.</b>
-
+<b>Aulify BlackHole, mathematical educational video game.</b><br><br>
 BlackHole is a video game about solving mathematical problems to enrich children's knowledge, that is, it is an educational and puzzle video game in which children will test their logical skills as well as communication skills when the mode of 2 players. It is designed to be executed on all devices that have internet browsing, therefore it is responsive and adapts depending on which device it is on. BlackHole is played in first person and rendered in 3D to make the experience even more immersive.
 
 The software was commissioned by a Mexican educational company, called Aulify, which also took on the role of socio-trainer. The video game is based on the agenda designed by the corporation for its online learning courses.
